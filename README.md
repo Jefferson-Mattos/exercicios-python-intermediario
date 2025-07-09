@@ -30,7 +30,7 @@ Execução real:
 
 
 
-!\[Execução break](imagens/break.png)
+!\[Execução break](imagens/break.png.png)
 
 
 
@@ -60,7 +60,7 @@ Execução real:
 
 
 
-!\[Execução continue](imagens/continue.png)
+!\[Execução continue](imagens/continue.png.png)
 
 
 
@@ -92,9 +92,9 @@ Execução real:
 
 
 
-!\[Execução primo](imagens/primo.png)
+!\[Execução primo](imagens/primo.png.png)
 
-!\[Execução primo](imagens/primo1.png)
+!\[Execução primo](imagens/primo1.png.png)
 
 
 
